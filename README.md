@@ -1,6 +1,6 @@
 # Notes
 
-Byte-sized insights from a software engeerier
+Byte-sized insights from a Software Engineer
 
 [notes.stancu.me](https://notes.stancu.me)
 
