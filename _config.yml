@@ -1,0 +1,20 @@
+title: Notes
+author:
+  name: Florin Stancu
+  email: florin@stancu.me
+description: Byte-sized insights from a software engeerier
+
+disqus:
+  shortname: notes-stancu-me
+  
+google_analytics: G-R19RHYK07D
+
+theme: minima
+
+minima:
+  skin: auto
+  social_links:
+    - platform: github
+      user_url: "https://github.com/StancuFlorin"
+    - platform: instagram
+      user_url: "https://www.instagram.com/stancuflorin"
