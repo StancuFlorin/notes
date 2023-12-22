@@ -10,4 +10,7 @@ google_analytics: G-R19RHYK07D
 github_username: StancuFlorin
 instagram_username: stancuflorin
 
-theme: minima
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-remote-theme
