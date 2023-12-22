@@ -11,6 +11,7 @@ author:
   email: florin@stancu.me
 
 minima:
+  skin: auto
   social_links:
     - platform: github
       user_url: "https://github.com/StancuFlorin"
