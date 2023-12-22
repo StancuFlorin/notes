@@ -6,10 +6,9 @@ disqus:
   
 google_analytics: G-R19RHYK07D
 
-site:
-  author:
-    name: Florin Stancu
-    email: florin@stancu.me
+author:
+  name: Florin Stancu
+  email: florin@stancu.me
 
 minima:
   social_links:
