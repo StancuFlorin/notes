@@ -1,5 +1,5 @@
 ---
-title: "How to play HEVC videos using Plex on Windows without transcoding"
+title: "How to play HEVC/H.265 videos using Plex on Windows without transcoding"
 date: 2023-12-21
 ---
 
