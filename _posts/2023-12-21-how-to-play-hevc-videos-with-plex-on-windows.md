@@ -10,7 +10,7 @@ Here is my guide on playing HEVC videos on Windows through Plex Web Player witho
 - Install [h265ify](https://microsoftedge.microsoft.com/addons/detail/h265ify/hpamdcillfipbkdijibjoojnofelpgjb) Edge extension. No extra configuration is needed.
 - Make sure you are using version `118` of Edge. I am curently using `Version 118.0.2088.122 (Official build) (64-bit)`.
 
-![plex_playback_settings](/assets/img/posts/plex_playback_settings.png)
+![plex_playback_settings](/assets/img/posts/plex_hevc_now_playing.png)
 
 ## How to downgrade Edge
 
