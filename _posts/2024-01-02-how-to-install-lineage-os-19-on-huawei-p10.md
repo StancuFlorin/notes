@@ -105,7 +105,9 @@ echo "done"
 - Back to Init.d app, use "test scripts" button to see if your script runs smootly.
 - Reboot your phone and check if the fixes are automatically applied.
 
+### Resources
 
-
-
-
+[1] [https://xdaforums.com/t/huawei-p10-vtr-l29-dual-sim-and-lineage-18-1-19-1-20.4579071/](https://xdaforums.com/t/huawei-p10-vtr-l29-dual-sim-and-lineage-18-1-19-1-20.4579071/) \\
+[2] [https://github.com/phhusson/treble_experimentations/wiki/Huawei-P10-and-P10-Plus](https://github.com/phhusson/treble_experimentations/wiki/Huawei-P10-and-P10-Plus) \\
+[3] [https://github.com/Coconutat/Huawei-GSI-And-Modify-Or-Support-KernelSU-Tutorial/wiki](https://github.com/Coconutat/Huawei-GSI-And-Modify-Or-Support-KernelSU-Tutorial/wiki) \\
+[4] [https://github.com/Iceows/huawei-creator/tree/android-12](https://github.com/Iceows/huawei-creator/tree/android-12)
