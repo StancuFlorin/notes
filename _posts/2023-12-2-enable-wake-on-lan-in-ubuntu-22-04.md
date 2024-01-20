@@ -88,6 +88,6 @@ sudo systemctl enable wol-enable.service
 
 ## Wake-on-LAN Client
 
-I personaly use [Wolow](https://wolow.site) to wake-up my devices on LAN, but you can use any other app.
+I personaly use [Simple Wake On Lan](https://github.com/herzhenr/simple-wake-on-lan) to wake-up my devices on LAN, but you can use any other app.
 
-![wolow](/assets/img/posts/wolow-wake-up-on-lan-iphone-app.png)
+![Simple Wake On Lan](/assets/img/posts/wake-up-on-lan-iphone-app.png)
